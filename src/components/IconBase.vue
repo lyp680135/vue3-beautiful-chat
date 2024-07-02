@@ -39,8 +39,13 @@ export default {
 
 <style scoped>
 svg {
-  display: inline-block;
+  /*display: inline-block;
   vertical-align: baseline;
-  margin-bottom: -2px; /* yes, I'm that particular about formatting */
+  margin-bottom: -2px;*/ /* yes, I'm that particular about formatting */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-items: center;
+  justify-content: center;
 }
 </style>
