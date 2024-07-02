@@ -389,6 +389,8 @@ export default {
   height: 100%;
   display: flex;
   justify-content: flex-end;
+  align-items: center;
+  gap: 5px;
 }
 
 .sc-user-input--button:first-of-type {

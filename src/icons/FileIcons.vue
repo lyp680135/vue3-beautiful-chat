@@ -1,5 +1,5 @@
 <template>
-  <div style="position: relative">
+  <div style="position: relative; margin-top: 5px;">
     <button class="sc-user-input--file-icon-wrapper" type="button" @click="_handleClick">
       <svg
         version="1.1"
